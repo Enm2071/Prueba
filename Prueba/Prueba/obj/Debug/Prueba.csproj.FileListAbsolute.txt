@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2017\Projects\Prueba\Prueba\bin\Debug\Prueba.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\Prueba\Prueba\bin\Debug\Prueba.exe
+c:\users\usuario\documents\visual studio 2017\Projects\Prueba\Prueba\bin\Debug\Prueba.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\Prueba\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2017\Projects\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+c:\users\usuario\documents\visual studio 2017\Projects\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2017\Projects\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2017\Projects\Prueba\Prueba\obj\Debug\Prueba.exe
+c:\users\usuario\documents\visual studio 2017\Projects\Prueba\Prueba\obj\Debug\Prueba.pdb
